@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "apollo-server-express": "^3.11.1",
+    "graphql-playground-middleware-express": "^1.7.23"
+  }
+}
